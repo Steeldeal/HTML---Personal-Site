@@ -1,0 +1,41 @@
+ /* ********************** TAG SELECTOR ********************** */
+body {
+  background-color: #018790;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0;
+  width: 5%;
+}
+
+hr:hover {
+  border-width: 10px;
+}
+
+h1 {
+  color: #2b2726;
+}
+
+h3 {
+  color: #0a516d;
+}
+
+/* ********************** CLASS SELECTOR ********************** */
+
+.Me {
+  background-color: white;
+
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/* ********************** ID SELECTOR ********************** */
+
+#heading {
+  color: green;
+}
